@@ -1,4 +1,3 @@
-[GITHUB-README.md](https://github.com/user-attachments/files/34899823/GITHUB-README.md)
 # Stream Station for Linux
 
 Español: [README.es.md](README.es.md)
